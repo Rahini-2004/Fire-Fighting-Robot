@@ -1,1 +1,1 @@
-# Fire-Fighting-Robot
+# A fire-fighting robot is an autonomous system designed to detect, control, and extinguish fires in hazardous environments. These robots help firefighters by reducing human risk and improving efficiency in fire emergencies.This project is done using Arduino UNO and Embedded C programming language.
